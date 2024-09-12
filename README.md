@@ -26,3 +26,12 @@ The primary objective of **Space Shooter** is to survive as long as possible whi
 4. **Avoid Meteors**: Avoid colliding with meteors to prevent losing the game.
 5. **Score**: Your score increases over time. Try to achieve the highest score before the game ends.
 
+## Screenshots
+![Gameplay Screen-1](https://raw.githubusercontent.com/kathwin12/space-shooter-pygame/main/pygame%20screenshots/game_play_laser.PNG)
+
+![Gameplay Screen-2](https://raw.githubusercontent.com/kathwin12/space-shooter-pygame/main/pygame%20screenshots/game_play_laser2.PNG)
+
+![Game Over Screen](https://raw.githubusercontent.com/kathwin12/space-shooter-pygame/main/pygame%20screenshots/game_over.PNG)
+
+
+
