@@ -1,4 +1,3 @@
-# space-shooter-pygame
 
 **Space Shooter** is a 2D space shooter game developed using Pygame. The player controls a spaceship and must shoot meteors while avoiding collisions. The goal is to achieve the highest score possible before the game ends.
 
